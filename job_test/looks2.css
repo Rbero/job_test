@@ -1,0 +1,53 @@
+body {
+  background-color:#c9c9c9;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  padding: 15px 32px;
+}
+
+p {
+  font-family: comic sans;
+  font-size: 20px;
+  color:blue;
+}
+
+#find_div {
+    color: white;
+    background-color: darkgrey;
+    font-size: 15;
+    width: 95px;
+}
+
+
+input{
+ border-radius:4px;
+ padding: 5px 10px;
+ margin: 5px;
+}
+
+
+button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  transition-duration: 0.5s;
+}
+button:hover {
+  background-color: darkred; /* Green */
+  color: white;
+}
+
+
+table, th, td{
+border: 2px dashed;
+color:black;
+}
+

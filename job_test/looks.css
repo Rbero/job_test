@@ -1,0 +1,47 @@
+body {
+  background-color:#c9c9c9;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  padding: 15px 32px;
+}
+
+p {
+  font-family: comic sans;
+  font-size: 20px;
+  color:blue;
+}
+
+#find_div {
+    color: white;
+    background-color: darkgrey;
+    font-size: 15;
+    width: 95px;
+}
+
+
+input{
+ border-radius:4px;
+ padding: 5px 10px;
+ margin: 5px;
+}
+
+
+button {
+  background-color: purple;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 20px;
+}
+
+table, th, td{
+border: 2px dashed;
+color:black;
+}
+
